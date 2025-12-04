@@ -11,4 +11,3 @@ public class rcrsn1{
         print(n);
     }
 }
-

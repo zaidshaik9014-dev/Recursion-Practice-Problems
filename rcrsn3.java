@@ -10,3 +10,4 @@ public class rcrsn3{
         System.out.println(sum(n));
     }
 }
+
